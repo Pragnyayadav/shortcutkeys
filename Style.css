@@ -1,0 +1,17 @@
+.parallax {
+    /* The image used */
+    background-image: url("purple.jpg");
+  
+    /* Set a specific height */
+    min-height: 200px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: fill;
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+.parallax2 {
+    background-image: url("bg.gif");
+}
